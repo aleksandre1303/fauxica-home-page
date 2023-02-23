@@ -34,7 +34,7 @@ Figma file: https://www.figma.com/file/dx5Myjr1pbiZ7wTWcOMbe7/Fauxica-(Community
 ### Links
 
 - Solution URL:  https://github.com/aleksandre1303/fauxica-home-page 
-- Live Site URL: https://aleksandre1303.github.io/smartwatch-website/
+- Live Site URL: https://aleksandre1303.github.io/fauxica-home-page/
 
 
 ## Author
@@ -53,9 +53,7 @@ Figma file: https://www.figma.com/file/dx5Myjr1pbiZ7wTWcOMbe7/Fauxica-(Community
 
 
 ### What I learned
-I learned how to use the grid better, how to make responsive with Grid and
-I understood well what is the difference between grid and flexbox
-🚀🚀✊
+I learned how to use the grid better and how to make transform animation 🚀 🚀
 
 
 ## Author
