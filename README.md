@@ -33,7 +33,7 @@ Figma file: https://www.figma.com/file/dx5Myjr1pbiZ7wTWcOMbe7/Fauxica-(Community
 
 ### Links
 
-- Solution URL:  https://github.com/aleksandre1303/testimonial-grid-section 
+- Solution URL:  https://github.com/aleksandre1303/fauxica-home-page 
 - Live Site URL: https://aleksandre1303.github.io/smartwatch-website/
 
 
