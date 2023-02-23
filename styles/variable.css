@@ -1,0 +1,18 @@
+:root {
+  /* Fonts */
+
+  --h1-title: "Playfair Display", serif;
+  --body-text: "Poppins", sans-serif;
+
+  /* Font weight */
+  --regular-font: 400;
+  --light-font: 300;
+  --bold-font: 700;
+  --extralight-font: 275;
+
+  /* Colors */
+  --black-color: #000;
+  --white-color: #fff;
+  --pr-btn-color: #f2f0df;
+  --dark-gray: #505050;
+}
